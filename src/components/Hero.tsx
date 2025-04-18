@@ -8,7 +8,7 @@ const Hero = () => {
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
           backgroundImage:
-            "url(https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=1200&q=80)",
+            "url(https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)",
           backgroundPosition: "center",
         }}
       >
@@ -33,12 +33,6 @@ const Hero = () => {
             <div className="flex flex-col sm:flex-row gap-4">
               <Button className="bg-white text-blue-700 hover:bg-blue-50 px-8 py-3 rounded-full text-lg font-medium">
                 Solicitar Orçamento
-              </Button>
-              <Button
-                variant="outline"
-                className="border-white text-white hover:bg-white/10 px-8 py-3 rounded-full text-lg font-medium"
-              >
-                Nossos Serviços
               </Button>
             </div>
           </motion.div>

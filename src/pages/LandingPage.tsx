@@ -34,7 +34,7 @@ const LandingPage = () => {
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="md:w-1/2">
               <img
-                src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&q=80"
+                src="https://images.pexels.com/photos/4857784/pexels-photo-4857784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 alt="Sobre a Pintura Personalizados"
                 className="rounded-lg shadow-lg w-full h-auto object-cover"
               />
@@ -117,24 +117,26 @@ const LandingPage = () => {
               {
                 name: "Carlos Silva",
                 role: "Diretor Executivo",
-                image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Carlos",
+                image:
+                  "https://images.pexels.com/photos/5155322/pexels-photo-5155322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               },
               {
                 name: "Ana Oliveira",
                 role: "Gerente de Projetos",
-                image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Ana",
+                image:
+                  "https://images.pexels.com/photos/31646744/pexels-photo-31646744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               },
               {
                 name: "Roberto Santos",
                 role: "Especialista em Pintura",
                 image:
-                  "https://api.dicebear.com/7.x/avataaars/svg?seed=Roberto",
+                  "https://images.pexels.com/photos/31622270/pexels-photo-31622270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               },
               {
                 name: "Juliana Costa",
                 role: "Designer de Interiores",
                 image:
-                  "https://api.dicebear.com/7.x/avataaars/svg?seed=Juliana",
+                  "https://images.pexels.com/photos/31646437/pexels-photo-31646437/free-photo-of-retrato-de-uma-mulher-com-cabelos-cacheados-sob-a-luz-do-sol.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               },
             ].map((member, index) => (
               <div

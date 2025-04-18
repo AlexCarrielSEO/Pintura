@@ -29,6 +29,11 @@ const FAQSection = ({
         "Trabalhamos com diversos tipos de superfícies, incluindo paredes internas e externas, madeira, metal, concreto, gesso e muito mais. Nossa equipe é especializada em adaptar as técnicas e materiais para cada tipo de superfície.",
     },
     {
+      question: "Quais tipos de texturas vocês pintam?",
+      answer:
+        "Trabalhamos com diversos tipos de texturas, incluindo paredes internas e externas, madeira, metal, concreto, gesso e muito mais. Nossa equipe é especializada em adaptar as técnicas e materiais para cada tipo de superfície.",
+    },
+    {
       question: "Quanto tempo leva para concluir um projeto de pintura?",
       answer:
         "O tempo de conclusão varia de acordo com o tamanho e complexidade do projeto. Projetos residenciais menores podem levar de 2 a 5 dias, enquanto projetos comerciais ou residenciais maiores podem levar de 1 a 3 semanas. Fornecemos um cronograma detalhado antes de iniciar o trabalho.",
@@ -49,7 +54,7 @@ const FAQSection = ({
         "Sim, oferecemos orçamentos detalhados e gratuitos para todos os projetos. Nossa equipe fará uma visita ao local para avaliar as necessidades específicas e fornecer um orçamento preciso, sem compromisso.",
     },
   ],
-  imageSrc = "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=600&q=80",
+  imageSrc = "https://images.pexels.com/photos/5428829/pexels-photo-5428829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 }: FAQSectionProps) => {
   return (
     <section className="py-16 px-4 md:px-8 bg-white">

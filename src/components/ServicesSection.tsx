@@ -85,7 +85,7 @@ const ServicesSection = () => {
       description:
         "Transforme sua casa com nossos serviços de pintura residencial. Oferecemos acabamento de alta qualidade para interiores e exteriores, com atenção aos detalhes e materiais premium.",
       imageUrl:
-        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&q=80",
+        "https://images.pexels.com/photos/5493662/pexels-photo-5493662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       buttonText: "Ver Detalhes",
     },
     {
@@ -93,7 +93,7 @@ const ServicesSection = () => {
       description:
         "Soluções profissionais de pintura para empresas, escritórios e estabelecimentos comerciais. Trabalhamos com eficiência para minimizar interrupções no seu negócio.",
       imageUrl:
-        "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=80",
+        "https://images.pexels.com/photos/18969810/pexels-photo-18969810/free-photo-of-homem-trabalhando-janelas-escada.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       buttonText: "Ver Detalhes",
     },
     {
@@ -101,7 +101,7 @@ const ServicesSection = () => {
       description:
         "Técnicas especiais de pintura para criar efeitos únicos e personalizados. Texturas, degradês, efeitos metálicos e muito mais para dar personalidade aos seus ambientes.",
       imageUrl:
-        "https://images.unsplash.com/photo-1615529162924-f8605388461d?w=800&q=80",
+        "https://images.pexels.com/photos/3615722/pexels-photo-3615722.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       buttonText: "Ver Detalhes",
     },
     {
@@ -109,7 +109,7 @@ const ServicesSection = () => {
       description:
         "Serviços especializados de restauração de pinturas antigas, recuperação de fachadas históricas e renovação de superfícies danificadas com técnicas avançadas.",
       imageUrl:
-        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+        "https://images.pexels.com/photos/15016481/pexels-photo-15016481/free-photo-of-homens-industria-navio-envio.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       buttonText: "Ver Detalhes",
     },
   ];
